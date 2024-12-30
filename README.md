@@ -15,3 +15,9 @@ $ npm i
 ```
 $ npx quartz sync
 ```
+
+ローカルでビルドプレビューする
+
+```
+$ npx quartz build --serve
+```
